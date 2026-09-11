@@ -7,3 +7,5 @@ This file tracks the iterative MVP build and keeps a visible commit trail for th
 - Firebase-ready service layer added for later backend integration.
 
 - Checkpoint 01: campus marketplace refinement step for signup, listings, filters, and chat logic.
+
+- Checkpoint 02: campus marketplace refinement step for signup, listings, filters, and chat logic.
