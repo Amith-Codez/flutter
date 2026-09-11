@@ -45,3 +45,5 @@ This file tracks the iterative MVP build and keeps a visible commit trail for th
 - Checkpoint 19: campus marketplace refinement step for signup, listings, filters, and chat logic.
 
 - Checkpoint 20: campus marketplace refinement step for signup, listings, filters, and chat logic.
+
+- Checkpoint 21: campus marketplace refinement step for signup, listings, filters, and chat logic.
