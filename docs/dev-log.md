@@ -1,0 +1,7 @@
+# Campus Marketplace Development Log
+
+This file tracks the iterative MVP build and keeps a visible commit trail for the campus marketplace project.
+
+- Initial project scaffolding complete.
+- Core screens created for login, home, listings, and chats.
+- Firebase-ready service layer added for later backend integration.
